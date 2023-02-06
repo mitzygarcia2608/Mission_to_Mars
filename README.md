@@ -13,6 +13,7 @@ From the analysis, the following questions were answered:
 •	In the Mars weather dataset, there are 1,867 Martian days worth of data
 
 •	The coldest month is August, and the warmest month is April
+
 ![image](https://user-images.githubusercontent.com/111592990/216887323-c065167c-e492-4c17-927a-d2043a4b57c5.png)
 
 •	The month with the lowest pressure is June, and the month with the highest pressure is September
